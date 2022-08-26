@@ -1,2 +1,3 @@
-Sxiv.background: #000000
-Sxiv.foreground: #8c8c8c
+Sxiv.background: #282c34
+Sxiv.foreground: #bbc2cf
+Sxiv.font: Fantasque Sans:size=13
