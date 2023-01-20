@@ -1,4 +1,5 @@
 let mapreader = ","
+set bg=dark
 
 set number relativenumber
 
